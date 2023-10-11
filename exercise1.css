@@ -1,0 +1,18 @@
+body{
+    margin: 2%;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+}
+
+.main-heading{
+    background-color: orangered;
+    text-align: center;
+}
+.heading-two{
+    text-align: center;
+    color: chocolate;
+    background-color: orangered;
+}
